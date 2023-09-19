@@ -1,0 +1,24 @@
+{
+	"Mods": [
+		{
+			"ModId": "Reactor",
+			"ModGUId": "gg.reactor.api",
+			"RepoURL": "NuclearPowered/Reactor",
+			"DescriptionShort": "様々なMODの前提MOD",
+			"DescriptionLong": "一部のMODを導入する際に必要なMODです。\nこのMODが必要な場合は、ModDownloaderを\n使用している場合は自動で導入されます。",
+			"DependencyMod": [],
+			"AddDownloadURLs": []
+		},
+		{
+			"ModId": "LevelImpostor",
+			"ModGUId": "com.DigiWorm.LevelImposter",
+			"RepoURL": "DigiWorm0/LevelImposter",
+			"DescriptionShort": "様々なマップが追加されるMOD",
+			"DescriptionLong": "プレイヤーが作成したマップをプレイできます。\n自分でマップを作成したり、\nみんなでマップを遊ぶこともできます。",
+			"DependencyMod": [
+				"Reactor"
+			],
+			"AddDownloadURLs": []
+		}
+	]
+}

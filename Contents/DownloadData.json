@@ -1,0 +1,8 @@
+{
+   "Contents":
+      [
+       {"path":"Sauner_BardBGM.wav","encrypted":false,"hash":"A69D590B5143566B35DE855E28B6EC94"},
+       {"path":"Sauner_SaunaBGM.wav","encrypted":true,"hash":"18593047C3BD0EC7035215A5CC0ED0AA"},
+       {"path":"Sauner_ShowerBGM.wav","encrypted":true,"hash":"00E4C658281DB1D63CDC0399C2F2809A"}
+      ]
+}
